@@ -5,7 +5,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:convo/colors.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+// ignore: unused_import
 import 'package:convo/screens/mobile_layout_screen.dart';
+// ignore: unused_import
 import 'package:convo/utils/responsive_layout.dart';
 
 void main() async {
