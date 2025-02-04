@@ -1,6 +1,6 @@
 # convo
 
-A new Flutter project.
+app that can be used to send message to others
 
 ## Getting Started
 
